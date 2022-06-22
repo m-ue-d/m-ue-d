@@ -23,5 +23,5 @@ First of all, my name is MÜD, not MUD:
 ## 🔭WHAT DOES HE DO?
 I am currently working on cool stuff.
 
-## 🤔WHY THIS LOOK LIKE a QA?
+## 🤔WHY THIS LOOK LIKE A QA?
 lol, it really does :satisfied:!
