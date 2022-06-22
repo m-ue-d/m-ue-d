@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# WHO THIS?
+# :ghost:WHO THIS?
 
 First of all, my name is MÜD, not MUD:
 (Pronounciation: say "ee", just like in Bee:honeybee:. While saying the sound, round your lips like an "O")
 
-## WHAT DOES HE DO?
+## 🔭WHAT DOES HE DO?
 I am currently working on cool stuff.
 
-## WHY THIS LOOK LIKE a QA?
+## 🤔WHY THIS LOOK LIKE a QA?
 lol, it really does :satisfied:!
