@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 # :ghost:WHO THIS?
 
 First of all, my name is MÜD, not MUD:
-(Pronounciation: say "ee", just like in Bee:honeybee:. While saying the sound, round your lips like an "O")
+(Pronounciation of Ü: say "ee", just like in Bee:honeybee:. While saying the sound, round your lips like an "O")
+
+I am a IT-fanatic that enjoys discovering new stuff. Working with friends is also very important to me.
 
 ## 🔭WHAT DOES HE DO?
-I am currently working on cool stuff.
+I am currently working on cool stuff, but greatest project yet is "Heast-Messenger", which is a collabration between <a href="https://github.com/FabianHummel">Fabian Hummel</a> and myself.
 
-## 🤔WHY THIS LOOK LIKE A QA?
-lol, it really does :satisfied:!
+## 🤔WHAT AM I SUPPOSED TO THINK OF M.UE.D?
+Well i dunno :satisfied:!
