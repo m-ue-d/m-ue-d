@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 # :ghost:WHO THIS?
 
-First of all, my name is MÜD, not MUD:
-(Pronounciation of Ü: say "ee", just like in Bee:honeybee:. While saying the sound, round your lips like an "O")
+Hi visitor. My name is MÜD. I like working on fun projects with my firends <a href="https://github.com/FabianHummel">Fabian Hummel</a> and <a href="https://github.com/lambdaspg">LambdaSpg</a>. They're great, so check them out too! =)
 
 I am a IT-fanatic that enjoys discovering new stuff. Working with friends is also very important to me.
 
-## 🔭WHAT DOES HE DO?
-I am currently working on cool stuff, probably together with <a href="https://github.com/FabianHummel">Fabian Hummel</a> and <a href="https://github.com/lambdaspg">LambdaSpg</a>.
+## 🔭WHAT'S HE DOING?
+I am currently working on a program called Squavy, which is a free Web DAW. Check it out at <a href="https://github.com/Squavy-DAW">Squavy-DAW</a>.
 
-## 🤔WHAT AM I SUPPOSED TO THINK OF M.UE.D?
-Well i dunno :satisfied:!
+## 🤔WHAT ARE YOUR FUTURE PLANS?
+That's a secret 🤫!
