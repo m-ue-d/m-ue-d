@@ -25,4 +25,4 @@ I am a IT-fanatic that enjoys discovering new stuff. Working with friends is als
 I am currently working on a program called Squavy, which is a free Web DAW. Check it out at <a href="https://github.com/Squavy-DAW">Squavy-DAW</a>.
 
 ## 🤔WHAT ARE YOUR FUTURE PLANS?
-That's a secret 🤫!
+Write better documentation on my projects. Other than that, i'll keep them secret 🤫!
