@@ -22,7 +22,7 @@ Hi visitor. My name is MÜD. I like working on fun projects with my friends <a h
 I am a IT-fanatic that enjoys discovering new stuff. Working with friends is also very important to me.
 (You can also find me on Soundcloud: <a href="https://soundcloud.com/m-ue-d">m-ue-d</a>)
 
-## 🔭WHAT'S HE DOING?
+## 🔭WHAT ARE YOU DOING?
 I am currently working on a program called Squavy, which is a free Web DAW. Check it out at <a href="https://github.com/Squavy-DAW">Squavy-DAW</a>. 
 
 ## 🤔WHAT ARE YOUR FUTURE PLANS?
