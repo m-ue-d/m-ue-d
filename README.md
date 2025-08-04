@@ -23,10 +23,10 @@ I am a IT-fanatic that enjoys discovering new stuff. Working with friends is als
 (You can also find me on Soundcloud: <a href="https://soundcloud.com/m-ue-d">m-ue-d</a>)
 
 ## 🔭WHAT ARE YOU DOING?
-I am currently continuing working on a program called Squavy, which is a free Web DAW. 
+I am currently continuing working on a program called Squavy, which is a free Web DAW. \
 Check it out at <a href="https://github.com/Squavy-DAW">Squavy-DAW</a> 🦑.
 
-Furthermore, I am developing a tiny video game that takes some inspiration from classical poker and yu gi oh! 
+Furthermore, I am developing a tiny video game that takes some inspiration from classical poker and yu gi oh! \
 Check it out at <a href="https://github.com/m-ue-d/TheRichThePoorTheMysterious">The Rich, The Poor, The Mysterious</a> 🃏.
 
 ## 🤔WHAT ARE YOUR FUTURE PLANS?
