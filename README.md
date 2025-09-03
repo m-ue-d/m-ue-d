@@ -27,7 +27,7 @@ I am currently continuing working on a program called Squavy, which is a free We
 Check it out at <a href="https://github.com/Squavy-DAW">Squavy-DAW</a> 🦑.
 
 Furthermore, I am developing a tiny video game that takes some inspiration from classical poker and yu gi oh! \
-Check it out at <a href="https://github.com/m-ue-d/Pracken">The Rich, The Poor, The Mysterious</a> 🃏.
+Check it out at <a href="https://github.com/m-ue-d/Pracken">Pracken</a> 🃏.
 
 ## 🤔WHAT ARE YOUR FUTURE PLANS?
 Write better documentation on my projects. Finish some old projects. Write documentation on them. Other than that, i'll keep them secret 🤫!
