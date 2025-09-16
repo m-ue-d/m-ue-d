@@ -24,7 +24,7 @@ I am a IT-fanatic that enjoys discovering new stuff. Working with friends is als
 
 ## 🔭WHAT ARE YOU DOING?
 I am currently continuing working on a program called Squavy, which is a free Web DAW. \
-Check it out at <a href="https://github.com/Squavy-DAW">Squavy-DAW</a> 🦑.
+You can check it out at <a href="https://github.com/Squavy-DAW">Squavy-DAW</a> 🦑 once it goes public.
 
 Furthermore, I am developing a tiny video game that takes some inspiration from classical poker and yu gi oh! \
 Check it out at <a href="https://github.com/m-ue-d/Pracken">Pracken</a> 🃏.
